@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OOP-Project_Jonathan_Alex_Abdin/1.0.0": {
+        "runtime": {
+          "OOP-Project_Jonathan_Alex_Abdin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP-Project_Jonathan_Alex_Abdin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
