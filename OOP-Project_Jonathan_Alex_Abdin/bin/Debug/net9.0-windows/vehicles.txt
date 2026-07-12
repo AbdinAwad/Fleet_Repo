@@ -1,0 +1,7 @@
+D-24561 Drone 5 93 Abdin Ali
+V-72228 ElectricVan 1500 99 Unassigned
+T-65712 HeavydutyHydrogenTruck 5000 61 Unassigned
+C-67943 ElectricCar 500 56 Unassigned
+C-22348 ElectricCar 500 41 Max Rockatansky
+V-96194 ElectricVan 1500 85 Unassigned
+C-77622 ElectricCar 500 50 Unassigned
